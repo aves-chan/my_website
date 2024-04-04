@@ -1,0 +1,3 @@
+from config_gitignore import PATH_FRONTED_GITIGNORE
+
+PATH_FRONTED = PATH_FRONTED_GITIGNORE
